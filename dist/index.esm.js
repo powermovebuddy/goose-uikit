@@ -2126,14 +2126,14 @@ var socials = [
         items: [
             {
                 label: "Discussion",
-                href: "https://t.me/WolvesDenDefi/",
+                href: "https://t.me/wolvesdendefi/",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/WolvesDenDefi/",
+        href: "https://twitter.com/wolvesdendefi/",
     },
 ];
 var MENU_HEIGHT = 64;

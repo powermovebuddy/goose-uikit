@@ -2139,7 +2139,7 @@ var socials = [
         items: [
             {
                 label: "Discussion",
-                href: "https://t.me/WolvesDenDefi/",
+                href: "https://t.me/wolvesdendefi/",
             },
         ],
     },
