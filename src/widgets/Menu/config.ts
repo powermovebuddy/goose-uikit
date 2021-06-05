@@ -120,14 +120,14 @@ export const socials = [
     items: [
       {
         label: "Discussion",
-        href: "https://t.me/WolvesDenFinance/",
+        href: "https://t.me/WolvesDenDefi/",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/WolvesDenFinance/",
+    href: "https://twitter.com/WolvesDenDefi/",
   },
 ];
 
