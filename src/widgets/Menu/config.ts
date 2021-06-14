@@ -120,14 +120,14 @@ export const socials = [
     items: [
       {
         label: "Discussion",
-        href: "https://t.me/wolvesden_defi",
+        href: "https://t.me/BlackMagicFinance",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/wolvesdendefi/",
+    href: "https://twitter.com/bmfinance_/",
   },
 ];
 
