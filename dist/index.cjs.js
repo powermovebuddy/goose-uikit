@@ -2139,14 +2139,14 @@ var socials = [
         items: [
             {
                 label: "Discussion",
-                href: "https://t.me/BlackSimFinance",
+                href: "https://t.me/SimulationSwap",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/bmfinance_/",
+        href: "https://twitter.com/simulation_swap/",
     },
 ];
 var MENU_HEIGHT = 64;
