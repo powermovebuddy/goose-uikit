@@ -2139,7 +2139,7 @@ var socials = [
         items: [
             {
                 label: "Discussion",
-                href: "https://t.me/BlackMagicFinance",
+                href: "https://t.me/BlackSimFinance",
             },
         ],
     },
@@ -2323,7 +2323,7 @@ var Panel = function (props) {
     var isPushed = props.isPushed, showMenu = props.showMenu;
     return (React__default['default'].createElement(StyledPanel, { isPushed: isPushed, showMenu: showMenu },
         React__default['default'].createElement(PanelBody, __assign({}, props)),
-        React__default['default'].createElement("a", { href: "https://rugdoc.io/project/black-magic-finance/" },
+        React__default['default'].createElement("a", { href: "https://rugdoc.io/project/black-sim-finance/" },
             React__default['default'].createElement("img", { src: "https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png" })),
         React__default['default'].createElement(PanelFooter, __assign({}, props))));
 };
@@ -2732,17 +2732,17 @@ var baseColors = {
     primary: "#708090",
     primaryBright: "#708090",
     primaryDark: "#708090",
-    secondary: "#c0c0c0",
+    secondary: "#0f66e9",
     success: "#31D0AA",
     warning: "#FFB237",
 };
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#301934", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#c0c0c0", textDisabled: "#BDC2C4", textSubtle: "#c0c0c0", borderColor: "#C0C0C0", card: "#000000", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#000000", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#0f66e9", textDisabled: "#BDC2C4", textSubtle: "#0f66e9", borderColor: "#0f66e9", card: "#000000", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#c0c0c0", background: "#301934", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", primaryDark: "#708090", tertiary: "#EFF4F5", text: "#c0c0c0", textDisabled: "#BDC2C4", textSubtle: "#c0c0c0", borderColor: "#c0c0c0", card: "#000000", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#0f66e9", background: "#000000", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", primaryDark: "#708090", tertiary: "#EFF4F5", text: "#0f66e9", textDisabled: "#BDC2C4", textSubtle: "#0f66e9", borderColor: "#0f66e9", card: "#000000", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
