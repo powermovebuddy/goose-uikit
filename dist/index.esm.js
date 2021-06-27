@@ -2310,8 +2310,6 @@ var Panel = function (props) {
     var isPushed = props.isPushed, showMenu = props.showMenu;
     return (React.createElement(StyledPanel, { isPushed: isPushed, showMenu: showMenu },
         React.createElement(PanelBody, __assign({}, props)),
-        React.createElement("a", { href: "https://rugdoc.io/project/simulation-swap/" },
-            React.createElement("img", { src: "https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png" })),
         React.createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$7;
